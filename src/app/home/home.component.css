@@ -647,6 +647,7 @@
     left: 208px;
     width: 897px;
     height: 1242px;
+    margin-top: 50px;
 }
 .header-child {
     position: absolute;
@@ -654,7 +655,7 @@
     left: 0px;
     background-color: #080808;
     width: 120%;
-    height: 700px;
+    height: 800px;
 }
 .your-name-here5 {
     align-self: stretch;
@@ -682,6 +683,9 @@
     letter-spacing: 0.01em;
     line-height: 24px;
     display: inline-block;
+    color: #cecdcd;
+    font-style: italic;
+    font-size: medium;
 }
 .intro-text7 {
     display: flex;
@@ -784,6 +788,7 @@
     left: 180px;
     width: 920px;
     height: 60px;
+    margin-top: 70px;
 }
 .header {
     position: absolute;
@@ -812,7 +817,7 @@
     align-items: flex-start;
     justify-content: flex-start;
     gap: 70px;
-    color: #9c9c9c;
+    color: #cecdcd;
 }
 .copyright-text {
     position: relative;
